@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@1,100;1,400&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family: Azeret Mono;
+  }
+ .Hero-bg-container{ 
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height:652px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-image: url("/assets/Hero-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+  }
+  .Hero-bg-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     height: 582px;
+    align-items: center;
+  }
+  .Hero-bg-content h1 {
+    color: rgb(13, 19, 33);
+  }
+  .Hero-bg-content p {
+    color: rgb(13, 19, 33);
+    margin: 24px 0px;
+  }
+  .Hero-bg-content p{
+    font-size: 16px;
+font-weight: 400;
+  }
+  .Hero-bg-content h1 {
+    font-size: 48px;
+    font-weight: 800;
+  }
+  .btn{
+    border-radius: 8px;
+background: rgb(13, 19, 33);
+color: rgb(255, 255, 255);
+padding: 18px 30px;
+margin: 0px 10px;
+  }
+  .web-all-container{
+   
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+  }
+  .web-dev{
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height:652px;
+    margin-top: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    
+  }
+  .web-dev h2{
+    margin: 24px 0;
+  }
+  .web-dev-conten{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     height: 582px;
+    align-items: center;
+  }
+  .layer{
+    display: flex;
+    margin-left: 30px;
+  }
+  .layer h1{
+    margin-bottom: 16px;
+  }
+  .layer p{
+    margin-bottom: 16px;
+  }
+  .layer button{
+    padding: 10px 20px ;
+  }
+  .layer img{
+    margin-left: 80px;
+  }
