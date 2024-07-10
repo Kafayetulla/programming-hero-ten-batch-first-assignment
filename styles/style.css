@@ -91,3 +91,9 @@ background: rgba(13, 19, 33, 0.02);
   .layer img{
     margin-left: 80px;
   }
+  .my-inspiration h1{
+    margin-left: 500px;
+  }
+  .my-inspiration p{
+    margin-left: 300px;
+  }
