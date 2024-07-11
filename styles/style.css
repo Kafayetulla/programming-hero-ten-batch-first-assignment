@@ -60,9 +60,7 @@ background: rgba(13, 19, 33, 0.02);
     min-height:652px;
     margin-top: 20px;
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-blend-mode: overlay;
+   
     
   }
   .web-dev h2{
@@ -96,4 +94,96 @@ background: rgba(13, 19, 33, 0.02);
   }
   .my-inspiration p{
     margin-left: 300px;
+    margin-bottom: 10px;
   }
+  .bd-youtube{
+    border: 1px solid;
+    margin: 50px 20px;
+    border-radius: 10px;
+  }
+  .youtube{
+    margin-left: 400px;
+    padding: 50px 0;
+  } 
+  #html-css-js-container{
+    display: flex;
+    margin-top: 20px 0 0 10px ;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+  }
+  .html{
+    border-radius: 16px;
+    background-color:rgba(255, 76, 30, 0.05); 
+    
+  }
+  .html div,h1,p{
+    margin-bottom: 20px;
+  }
+  .css{
+   background-color:  rgba(0, 76, 232, 0.05);
+   border-radius: 16px;}
+   .css div,h1,p{
+    margin-bottom: 20px;
+  
+  }
+  .js{
+    border-radius: 16px;
+    background-color: rgba(255, 223, 0, 0.05);;
+  }
+  .js div,h1,p{
+    margin-bottom: 20px;
+  }
+.RNB-All-
+  .RNB-JS{
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+  
+    border-radius: 10px;
+  }
+  .RNB-JS1{
+    display: flex;
+    margin: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  .RNB-JS1 img{
+padding: 40px;
+  
+  }
+  .RNB-JS2{
+    display: flex;
+    margin: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  .RNB-JS2 img{
+    padding: 40px;}
+  .RNB-JS3{
+    display: flex;
+    margin: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  .RNB-JS3 img{
+    padding: 40px;}
+.need-Suppor-container{
+    background-image: url(/assets/handshake.jpg);
+    padding: 30px;
+    margin: 30px;
+}
+.need-Suppor-contex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     height: 313px;
+    align-items: center;
+
+}
+.need-Suppor-contex input{
+    padding: 19px 20px 19px 20px;
+}
+.need-Suppor-contex button{
+    padding: 19px 20px 19px 20px;
+}
