@@ -45,10 +45,14 @@ font-weight: 400;
   .btn{
     border-radius: 8px;
 background: rgb(13, 19, 33);
-color: rgb(255, 255, 255);
+
 padding: 18px 30px;
-margin: 0px 10px;
-  }
+margin: 0px 10px;}
+.btn a{
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+  
   .web-all-container{
    
 border-radius: 16px;
@@ -187,7 +191,7 @@ padding: 40px;
 .need-Suppor-contex button{
     padding: 19px 20px 19px 20px;
 }
-.footer{
+#footer{
     display: flex;
     margin: 30px;
 }
