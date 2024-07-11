@@ -182,8 +182,15 @@ padding: 40px;
 
 }
 .need-Suppor-contex input{
-    padding: 19px 20px 19px 20px;
+    padding: 19px 20px 19px 25px;
 }
 .need-Suppor-contex button{
     padding: 19px 20px 19px 20px;
+}
+.footer{
+    display: flex;
+    margin: 30px;
+}
+.link{
+    margin-left: 700px;
 }
